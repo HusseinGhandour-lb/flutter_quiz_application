@@ -64,12 +64,16 @@ lib/
     
 ---
 
-##📸 Screenshots
+## 📸 Screenshots
 <br>
-<img width="456/2" height="978/2" alt="Image" src="https://github.com/user-attachments/assets/239b3841-e402-490a-a792-91fe4d49d2bf" />
+<br>
+<img width="456" height="978" alt="Image" src="https://github.com/user-attachments/assets/239b3841-e402-490a-a792-91fe4d49d2bf" />
+<br>
 <br>
 <img width="463" height="988" alt="Image" src="https://github.com/user-attachments/assets/f7a0799b-7748-4cca-8c46-35316c295a0f" />
 <br>
+<br>
 <img width="466" height="989" alt="Image" src="https://github.com/user-attachments/assets/3b448646-24f7-4812-8d13-09a935cb96d0" />
+<br>
 <br>
 <img width="457" height="981" alt="Image" src="https://github.com/user-attachments/assets/3116881e-ecd9-4d49-9520-b50a757649b2" />
