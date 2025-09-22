@@ -42,9 +42,6 @@ lib/
 
 ---
 
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -68,7 +65,8 @@ lib/
 ---
 
 ##📸 Screenshots
-<img width="456" height="978" alt="Image" src="https://github.com/user-attachments/assets/239b3841-e402-490a-a792-91fe4d49d2bf" />
+<br>
+<img width="456/2" height="978/2" alt="Image" src="https://github.com/user-attachments/assets/239b3841-e402-490a-a792-91fe4d49d2bf" />
 <br>
 <img width="463" height="988" alt="Image" src="https://github.com/user-attachments/assets/f7a0799b-7748-4cca-8c46-35316c295a0f" />
 <br>
