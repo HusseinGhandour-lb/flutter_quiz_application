@@ -25,20 +25,20 @@ The app provides an interactive quiz experience with shuffled answers each time 
 
 ## 📂 Project Structure
 
-lib/
-├── data/
-│ └── questions.dart # Quiz questions and answers
-│
-├── models/
-│ └── quiz_questions.dart # Quiz question model
-│
-├── button_widget.dart # Custom button widget
-├── main.dart # App entry point
-├── question_summary.dart # Widget to show summary of answers
-├── questions_screen.dart # Question and answer logic
-├── quiz.dart # Core quiz logic and screen switching
-├── result_screen.dart # Result summary UI
-└── start_screen.dart # Start screen UI
+    lib/
+    ├── data/
+    │ └── questions.dart # Quiz questions and answers
+    │
+    ├── models/
+    │ └── quiz_questions.dart # Quiz question model
+    │
+    ├── button_widget.dart # Custom button widget
+    ├── main.dart # App entry point
+    ├── question_summary.dart # Widget to show summary of answers
+    ├── questions_screen.dart # Question and answer logic
+    ├── quiz.dart # Core quiz logic and screen switching
+    ├── result_screen.dart # Result summary UI
+    └── start_screen.dart # Start screen UI
 
 ---
 
@@ -48,10 +48,10 @@ lib/
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) installed
 - Android Studio / VS Code with Flutter & Dart plugins
 
-### Installation & Run
-    ```bash
+## Installation & Run
+    
     # Clone this repository
-    git clone https://github.com/your-username/flutter-quiz-app.git
+    git clone https://github.com/HusseinGhandour-lb/flutter-quiz-app.git
 
     # Navigate to the project folder
     cd flutter-quiz-app
